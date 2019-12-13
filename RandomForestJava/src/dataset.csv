@@ -1,0 +1,15 @@
+Pif,Temp,Humind,Vent,Jouer
+soleil,chaud,haute,faux,non
+soleil,chaud,haute,vrai,non
+couvert,chaud,haute,faux,oui
+pluie,bon,haute,faux,oui
+pluie,frais,normale,faux,oui
+pluie,frais,normale,vrai,non
+couvert,frais,normale,vrai,oui
+soleil,bon,haute,faux,non
+soleil,frais,normale,faux,oui
+pluie,bon,normale,faux,oui
+soleil,bon,normale,vrai,oui
+couvert,bon,haute,vrai,oui
+couvert,chaud,normale,faux,oui
+pluie,bon,haute,vrai,non
